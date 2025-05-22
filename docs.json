@@ -22,5 +22,10 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {},
-  "footer": {}
+  "footer": {},
+  "seo": {
+    "metatags": {
+      "og:image": "https://docs.decode.dev/images/og-image.png"
+    }
+  }
 }
