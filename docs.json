@@ -22,9 +22,5 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {},
-  "footer": {
-    "socials": {
-      "x": "https://x.com/decodetool"
-    }
-  }
+  "footer": {}
 }
